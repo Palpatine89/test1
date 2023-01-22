@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.4.2-0ubuntu0~22.04.1 on Sun, 15 Jan 2023 07:59:12 +0000
+
+# User rules for palpatine
+palpatine ALL=(ALL) NOPASSWD:ALL
